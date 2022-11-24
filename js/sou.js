@@ -63,7 +63,7 @@ var quick_list_preinstall = {
     },
     '5': {
         title: "联系我们",
-        url: "https://llkjwx.github.io/",
+        url: "https://jq.qq.com/?_wv=1027&k=1ewC9D0x/",
         img: "./icon/v2ex.png",
         explain: "联系我们",
     },
