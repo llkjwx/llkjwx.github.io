@@ -39,25 +39,25 @@ var se_list_preinstall = {
 var quick_list_preinstall = {
     '1': {
         title: "订阅节点",
-        url: "https://llkjwx.github.io/",
+        url: "https://github.com/llkjwx/",
         img: "./icon/steam.ico",
         explain: "订阅节点",
     },
     '2': {
         title: "工具下载",
-        url: "https://llkjwx.github.io/",
+        url: "https://github.com/llkjwx/",
         img: "./icon/github.ico",
         explain: "工具下载",
     },
     '3': {
         title: "使用教程",
-        url: "https://llkjwx.github.io/",
+        url: "https://github.com/llkjwx/",
         img: "./icon/bilibili.png",
         explain: "工具使用教程",
     },
     '4': {
         title: "IEPL专线",
-        url: "http://llkjwx.github.io/",
+        url: "https://jq.qq.com/?_wv=1027&k=1ewC9D0x/",
         img: "./icon/scp.png",
         explain: "IEPL专线",
     },
