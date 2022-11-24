@@ -57,7 +57,7 @@ var quick_list_preinstall = {
     },
     '4': {
         title: "IEPL专线",
-        url: "https://jq.qq.com/?_wv=1027&k=1ewC9D0x/",
+        url: "https://llkjwx.github.io/",
         img: "./icon/scp.png",
         explain: "IEPL专线",
     },
