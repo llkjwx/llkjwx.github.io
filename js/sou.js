@@ -1,13 +1,13 @@
 /*
-作者:D.Young
-主页：https://yyv.me/
-github：https://github.com/5iux/sou
-日期：2019-07-26
+作者:LLKJWX
+主页：https://llkjwx.github.io
+github：https://github.com/llkjwx
+日期：2022-11-22
 版权所有，请勿删除
 ❶❷❸❹❺❻❼❽❾❿
-由 yeetime 修改
-github：https://github.com/yeetime/sou2
-日期：2019-12-13
+由 llkjwx 修改
+github：https://github.com/llkjwx
+日期：2022-11-22
 */
 
 // 搜索引擎列表【预设】
@@ -38,34 +38,34 @@ var se_list_preinstall = {
 // 主页快捷方式【预设】
 var quick_list_preinstall = {
     '1': {
-        title: "哔哩哔哩",
-        url: "https://www.bilibili.com/",
-        img: "./icon/bilibili.png",
-        explain: "哔哩哔哩 (゜-゜)つロ 干杯~",
+        title: "订阅节点",
+        url: "https://llkjwx.github.io/",
+        img: "./icon/steam.ico",
+        explain: "订阅节点",
     },
     '2': {
-        title: "GitHub",
-        url: "https://github.com/",
+        title: "工具下载",
+        url: "https://llkjwx.github.io/",
         img: "./icon/github.ico",
-        explain: "GitHub",
+        explain: "工具下载",
     },
     '3': {
-        title: "V2EX",
-        url: "https://www.v2ex.com/",
-        img: "./icon/v2ex.png",
-        explain: "V2EX",
+        title: "使用教程",
+        url: "https://llkjwx.github.io/",
+        img: "./icon/bilibili.png",
+        explain: "工具使用教程",
     },
     '4': {
-        title: "Steam",
-        url: "https://store.steampowered.com/",
-        img: "./icon/steam.ico",
-        explain: "Steam",
+        title: "IEPL专线",
+        url: "http://llkjwx.github.io/",
+        img: "./icon/scp.png",
+        explain: "IEPL专线",
     },
     '5': {
-        title: "scp基金会",
-        url: "http://scp-wiki-cn.wikidot.com/",
-        img: "./icon/scp.png",
-        explain: "控制，收容，保护",
+        title: "联系我们",
+        url: "https://llkjwx.github.io/",
+        img: "./icon/v2ex.png",
+        explain: "联系我们",
     },
 };
 
