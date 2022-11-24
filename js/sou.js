@@ -63,7 +63,7 @@ var quick_list_preinstall = {
     },
     '5': {
         title: "联系我们",
-        url: "https://jq.qq.com/?_wv=1027&k=1ewC9D0x/",
+        url: "https://eturl.cn/B5CicD/",
         img: "./icon/v2ex.png",
         explain: "联系我们",
     },
