@@ -13,18 +13,18 @@ github：https://github.com/llkjwx
 // 搜索引擎列表【预设】
 var se_list_preinstall = {
     '1': {
-        id: 1,
-        title: "百度",
-        url: "https://www.baidu.com/s",
-        name: "wd",
-        img: "./icon/baidu.ico",
-    },
-    '2': {
         id: 2,
         title: "谷歌",
         url: "https://www.google.com/search",
         name: "q",
         img: "./icon/google_1.png",
+    },
+    '2': {
+        id: 1,
+        title: "百度",
+        url: "https://www.baidu.com/s",
+        name: "wd",
+        img: "./icon/baidu.ico",
     },
     '3': {
         id: 3,
@@ -38,10 +38,10 @@ var se_list_preinstall = {
 // 主页快捷方式【预设】
 var quick_list_preinstall = {
     '1': {
-        title: "订阅节点",
+        title: "免费节点",
         url: "https://llkjwx.github.io/node/",
         img: "./icon/steam.ico",
-        explain: "订阅节点",
+        explain: "免费节点",
     },
     '2': {
         title: "工具下载",
