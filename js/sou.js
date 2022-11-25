@@ -39,25 +39,25 @@ var se_list_preinstall = {
 var quick_list_preinstall = {
     '1': {
         title: "订阅节点",
-        url: "https://github.com/llkjwx/",
+        url: "https://llkjwx.github.io/node/",
         img: "./icon/steam.ico",
         explain: "订阅节点",
     },
     '2': {
         title: "工具下载",
-        url: "https://github.com/llkjwx/",
+        url: "https://llkjwx.github.io/down/",
         img: "./icon/github.ico",
         explain: "工具下载",
     },
     '3': {
         title: "使用教程",
-        url: "https://github.com/llkjwx/",
+        url: "https://llkjwx.github.io/tool/",
         img: "./icon/bilibili.png",
         explain: "工具使用教程",
     },
     '4': {
         title: "IEPL专线",
-        url: "https://llkjwx.github.io/",
+        url: "https://llkjwx.github.io/iepl/",
         img: "./icon/scp.png",
         explain: "IEPL专线",
     },
@@ -72,6 +72,16 @@ var quick_list_preinstall = {
 // 主题方案【预设】
 var themes_preinstall = {
     '1': {
+        'name': 'darcula',
+        'bg': "#2b2b2b",
+        'pop_bg': "#3c3f41",
+        'shadow': "#211f1f",
+        'bottom_bg': "#4c5052",
+        //'top_bg': "#365880",// 高亮
+        'text_color': "#bbbbbb",
+        'bg_img': "",//背景图片'1': {
+    },
+    '2': {
         'name': 'light',// 主题名称
         'bg': "#f5f5f5",// 背景色
         'pop_bg': "#ffffff",// 弹窗背景色
@@ -81,21 +91,11 @@ var themes_preinstall = {
         'text_color': "#777777",// 文本颜色
         'bg_img': "",//背景图片
     },
-    '2': {
-        'name': 'darcula',
-        'bg': "#2b2b2b",
-        'pop_bg': "#3c3f41",
-        'shadow': "#211f1f",
-        'bottom_bg': "#4c5052",
-        //'top_bg': "#365880",// 高亮
-        'text_color': "#bbbbbb",
-        'bg_img': "",//背景图片
-    },
 };
 
 //背景图片
 var bg_img_preinstall = {
-    "type" : "3",// 1:使用主题默认的背景图片、2:关闭背景图片、3:使用自定义的背景图片
+    "type" : "1",// 1:使用主题默认的背景图片、2:关闭背景图片、3:使用自定义的背景图片
     "path" : "https://cdn.jsdelivr.net/gh/yeetime/img/20200627173550.png",//背景图片
 };
 
